@@ -16,6 +16,7 @@ class Reguly:
 	def readfromfile(self,filepath):
 		with open(filepath,"r",encoding="utf-8") as plik:
 			for linia in plik:
+				if linia.startswith("#"):continue
 				(znak,pol,ang)=linia.replace("\n","").split(";")
 				regula=Regula(znak,pol,ang)
 				self.reguly.append(regula)
