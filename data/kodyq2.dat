@@ -1,0 +1,71 @@
+dla wyrażenia;kod Q
+Burza, wyłączam stację;QAZ
+Przeszukiwanie pasma od największej częstotliwości;QHL
+Przeszukiwanie pasma od największej do środkowej częstotliwości;QHM
+Przeszukiwanie pasma od najmniejszej częstotliwości;QLH
+Przeszukiwanie pasma od najmniejszej do środkowej częstotliwości;QLM
+Przeszukiwanie pasma od środkowej do największej częstotliwości;QMH
+Przeszukiwanie pasma od środkowej do najmniejszej częstotliwości;QML
+Muszę przerwać łączność, wyjaśnienia później;QQQ
+Moja stacja nazywa się…;QRA
+Mój adres w callbooku jest dokładny i prawidłowy;QRAR
+Odległość między naszymi stacjami wynosi … km;QRB
+Zdążamy do… z …;QRD
+Przypuszczalnie przybędziemy do … A … godzinie;QRE
+Wracamy (wracajcie) do … (miejsce);QRF
+Twoja częstotliwość wynosi…;QRG
+Twoja częstotliwość zmienia się, waha;QRH
+Twój ton jest: 1. dobry, 2. zmienny, 3. zły;QRI
+Wasze sygnały są bardzo słabe, nieodbieralne;QRJ
+Czytelność waszych sygnałów wynosi (1…5);QRK
+Jestem zajęty, proszę nie przeszkadzać;QRL
+Mam przeszkody w odbiorze, zakłócenia od innych stacji;QRM
+Mam zakłócenia atmosferyczne;QRN
+Zwiększ moc, duża moc;QRO
+Zmniejsz moc, mała moc;QRP
+Nadawaj szybciej;QRQ
+Jestem gotowy do pracy automatycznej;QRR
+Znak niebezpieczeństwa na lądzie (tylko w ruchu amatorskim);QRRR
+Nadawaj wolniej;QRS
+Kończę nadawanie, wyłączam stację, przerwij nadawanie!;QRT
+Nie mam nic dla ciebie;QRU
+Jestem gotów do pracy;QRV
+Przekażcie …, że go wołam na częstotliwości …;QRW
+Proszę poczekać, zawołam was o godzinie …;QRX
+Wasza kolejność jest…;QRY
+Was woła…, kto mnie woła?;QRZ
+Siła waszych sygnałów wynosi (1…9);QSA
+Siła waszego sygnału waha się;QSB
+Błędnie nadajecie CW;QSD
+Nie mogłem przerwać waszego nadawania;QSI
+Mogę słuchać w przerwach nadawania (BK);QSK
+Potwierdzam, przyślę kartę QSL;QSL
+Wymieńmy wzajemnie nasze karty QSL;QSLL
+Nie trzeba wysyłać karty QSL;QSLN
+Proszę powtórzyć (RPT);QSM
+Słyszałem was na … kHz;QSN
+Łączność, mam połączenie;QSO
+Przekażcie komunikat do…;QSP
+Nadawajcie każde słowo jeden raz;QSQ
+Powtórzcie wasze wywołanie na częstotliwości wywoławczej;QSR
+Chcemy używać częstotliwości roboczej …;QSS
+Komunikat dla wszystkich;QST
+Nadawajcie na częstotliwości … kHz;QSU
+Proszę o łączność telefoniczną przewodową;QSUF
+Nadawajcie V dla strojenia;QSV
+Przechodzę na częstotliwość…;QSW
+Słucham na częstotliwości…;QSX
+Przejdźcie na częstotliwość…;QSY
+Nadawajcie każde słowo dwa razy (lub … razy);QSZ
+Anulujcie radiogram nr… , jak gdyby nie był nadany;QTA
+Nie zgadzam się z waszym obliczeniem ilości słów;QTB
+Mam dla was wiadomość;QTC
+Będziemy nadawali po naszym znaku dwie “kreski”, każda po 10 sek.;QTG
+Moje położenie geograficzne to…;QTH
+Opuściliśmy to miejsce o … godzinie;QTN
+Dokładny czas jest…;QTR
+Będziemy nadawali do pomiarów nasz sygnał wywoławczy przez … minut;QTS
+Sygnał rozpoznawczy który nastąpi jest nałożony na inną transmisję;QTT
+Pracuję od … do …;QTU
+Nasłuchujcie za nas na częstotliwości … ( od … do … godziny);QTV
+Będziemy w pogotowiu do dalszej łączności z wami;QTX
